@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+美大で「日本画」専攻していましたが、
+ご縁があってこちらの業界に何も分からない状態で来ました。
 
-### Contact me
+何にもわからなくても気合で乗り切ってきたので、
+これから何かをはじめようとする方の参考になるようなものを載せていけたらなと思っています。
 
-[email@domain.com](mailto:email@domain.com)
